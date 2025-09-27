@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Car Rental System
 
 Bu proje, **Java 21** ve **PostgreSQL 16** kullanılarak geliştirilmiş terminal tabanlı bir **Araç Kiralama Sistemi**dir.  
@@ -31,3 +32,7 @@ Amaç, katmanlı mimari, veritabanı işlemleri, transaction yönetimi ve modern
 
 ## 🗂️ Katmanlı Mimari
 
+=======
+# car-rental-mehmet
+Terminal-based Car Rental Project — Java 21 + PostgreSQL
+>>>>>>> bdf2ba44bb66f26e61807432e8c40d75a858179e
